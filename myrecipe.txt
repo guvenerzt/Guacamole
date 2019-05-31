@@ -1,5 +1,9 @@
 Experiment recipe
 slice apples
-juice orages
+juice oranges
 bake pears
 whip cream
+add apples and pears in a bowl
+fold cream with fruit mixture
+bake at 350 F for 30 min
+poor orange juice and serve immediately
