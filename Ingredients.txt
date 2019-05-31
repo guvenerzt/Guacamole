@@ -2,3 +2,6 @@ Avacado
 Tomatoes
 Lime
 Cilantro
+Onions
+Salt
+Cumin
