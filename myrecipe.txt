@@ -1,4 +1,4 @@
-Experiment recipe
+Experiment recipe for baked fruit with orange juice
 slice apples
 juice oranges
 bake pears
